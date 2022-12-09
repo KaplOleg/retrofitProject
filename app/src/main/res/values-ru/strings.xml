@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск стран по валюте</string>
+    <string name="error_message">Ошибка загрузки!</string>
+    <string name="loading_message">Загружаем…</string>
+    <string name="loaded_message">Загружено!</string>
+    <string name="input_currency">Введите валюту:</string>
+    <string name="btn_load">Загрузить</string>
+</resources>

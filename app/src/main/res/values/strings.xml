@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search for countries by currency</string>
+    <string name="error_message">Download error!</string>
+    <string name="loading_message">Загружаем…</string>
+    <string name="loaded_message">Uploaded!</string>
+    <string name="input_currency">Enter the currency:</string>
+    <string name="btn_load">Download</string>
+</resources>

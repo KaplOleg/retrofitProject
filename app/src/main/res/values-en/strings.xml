@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search for countries by currency</string>
+    <string name="btn_load">Download</string>
+    <string name="input_currency">Enter the currency:</string>
+    <string name="loaded_message">Uploaded!</string>
+    <string name="loading_message">Uploading…</string>
+    <string name="error_message">Download error!</string>
+</resources>
